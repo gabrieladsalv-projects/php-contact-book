@@ -1,0 +1,146 @@
+.navbar-brand img {
+    width: 50px;
+}
+
+#main-title {
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+
+
+/* HOME */
+
+#contacts-table {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#contacts-table thead {
+    color: #fff;
+    background-color: #0B0956;
+}
+
+.col-id {
+    font-weight: bold;
+}
+
+.actions {
+    text-align: right;
+    width: 150px;
+}
+
+.actions i {
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.check-icon {
+    color: #1e7e34;
+}
+
+.edit-icon {
+    color: #0B0956;
+}
+
+.delete-form {
+    display: inline-block;
+}
+
+.delete-btn {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+}
+
+.delete-icon {
+    color: #982828;
+}
+
+#empty-list-text {
+    text-align: center;
+}
+
+#msg {
+    color: #155724;
+    background-color: #d4edda;
+    border: 1px solid #C3E6CB;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+/* SHOW */
+
+#view-contact-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#back-link-container {
+    display: block;
+    width: 500px;
+    margin: 30px auto 0;
+}
+
+#back-link-container a#back-link {
+    border: 1px solid #0B0956;
+    color: #0B0956;
+    border-radius: 4px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* ADD CONTATO */
+.add-contato-form, .edit-contato-form {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.add-contato-form label {
+    margin-top: 10px;
+}
+
+.add-contato-form input[type="text"],
+.add-contato-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.add-contato-form input[type="text"]:focus,
+.add-contato-form textarea:focus {
+    outline: none;
+    border-color: #0B0956;
+}
+
+.add-contato-form input[type="submit"] {
+    background-color: #0B0956;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-contato-form input[type="submit"]:hover {
+    background-color: #090742;
+}
+
+
+/* MOBILE */
+@media (max-width:400px) {
+    #home-link {
+        display: none;
+    }
+}
