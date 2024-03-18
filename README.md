@@ -2,11 +2,11 @@
 
 ![Image from Contact Book](contact-book.png)
 
-###**Project Summary: Building a Contact Management System**
+### Project Summary: Building a Contact Management System
 
 This project involves the development of a contact management system using PHP, HTML, CSS, and MySQL. The system allows users to add, view, edit, and delete contacts.
 
-###**Technologies Used:**
+### Technologies Used:
 
 1. **PHP (Hypertext Preprocessor):** Used for server-side scripting, handling form submissions, and interacting with the database.
 
@@ -16,7 +16,7 @@ This project involves the development of a contact management system using PHP, 
 
 4. **MySQL:** Used as the relational database management system to store and manage contact information. SQL queries are utilized to retrieve, insert, update, and delete data.
 
-###**Project Workflow:**
+### Project Workflow:
 
 1. **Frontend Development (HTML/CSS):** Initially, the frontend of the application was developed using HTML and CSS. This included designing the layout, forms for adding/editing contacts, and ensuring a user-friendly interface.
 
@@ -28,6 +28,6 @@ This project involves the development of a contact management system using PHP, 
 
 5. **Deployment:** Finally, the completed project was deployed to a web server, making it accessible to users over the internet.
 
-###**Conclusion:**
+### Conclusion:
 
 Through the integration of PHP, HTML, CSS, and MySQL, a robust contact management system was developed, providing users with a convenient way to organize and manage their contacts effectively.
